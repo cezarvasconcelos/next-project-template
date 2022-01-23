@@ -1,5 +1,9 @@
 {
-  "name": "pomo-time-it",
+  "name": "template-next-styled-commitlint",
+  "author": {
+    "name": "Cezar Vasconcelos",
+    "email": "czavasconcellos@gmail.com"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
